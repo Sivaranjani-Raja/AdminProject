@@ -67,6 +67,8 @@
                            
                         </table>
                         <br>
+                        {!! $employee->links() !!}
+
                        
                         <br><br>
                     

@@ -62,7 +62,7 @@
                            
                         </table>
                         <br>
-                       
+                       {!! $company->links() !!}
                         <br><br>
                     
                     </div>
